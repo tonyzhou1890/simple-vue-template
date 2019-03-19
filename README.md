@@ -1,6 +1,6 @@
-# company-xiaowei-v2
+# simple-vue-template
 
-> official website of xiaowei(v2)
+> a simple template of vue
 
 ## Build Setup
 

@@ -2,5 +2,6 @@
 module.exports = {
   NODE_ENV: '"production"',
   ENV_CONFIG: '"prod"',
-  STATIC_API: '"http://statics.xiaowei-tech.com"'
+  BASE_API: '"http://localhost:8080"',
+  STATIC_API: '"http://localhost:8081"'
 }
